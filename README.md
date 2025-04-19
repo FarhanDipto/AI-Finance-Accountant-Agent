@@ -1,6 +1,5 @@
 # 🧠 AI Finance Accountant Agent
 
-![Banner](https://img.shields.io/badge/AI--Agent-Financial%20Automation-blueviolet)
 > Voice-powered assistant for personal finance insight — powered by RAG-style retrieval & local embeddings.
 
 ---
@@ -15,6 +14,18 @@ The AI Finance Accountant Agent is a smart voice-enabled assistant that lets use
 - 🗣️ All through **natural voice commands**
 
 Designed to run locally using lightweight models — no cloud or API keys required!
+
+---
+
+## 🧰 Tech Stack
+
+- **Python 3** — Core language
+- **pandas** — For loading, cleaning, and analyzing invoice data
+- **regex** — To extract structured info from text
+- **dateutil** — For parsing flexible date formats
+- **Text-to-Speech**:
+  - `pyttsx3` (offline) or `gTTS` + `pygame` (online option)
+- **colorama**, **tqdm** — Terminal styling and progress indicators (optional)
 
 ---
 
@@ -49,3 +60,6 @@ ai-finance-accountant-agent/
 │
 ├── README.md
 └── Documentation & Usage Guide.pdf
+
+
+
