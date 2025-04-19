@@ -1,84 +1,51 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/your-username/your-repo-name/main/banner.png" alt="AI Finance Accountant Agent Banner">
-</p>
+# 🧠 AI Finance Accountant Agent
 
-<h1 align="center">AI Finance Accountant Agent 💼📊</h1>
-
-<p align="center">
-  A simple, local AI agent that can understand and analyze structured financial documents (invoices, transactions, and more) — no embeddings, no vector DBs, no fancy LLMs. Just smart regex, pandas, and clean logic.
-</p>
-
-<p align="center">
-  <a href="#features">Features</a> •
-  <a href="#demo">Demo</a> •
-  <a href="#how-it-works">How It Works</a> •
-  <a href="#tech-stack">Tech Stack</a> •
-  <a href="#getting-started">Getting Started</a> •
-  <a href="#license">License</a>
-</p>
+![Banner](https://img.shields.io/badge/AI--Agent-Financial%20Automation-blueviolet)
+> Voice-powered assistant for personal finance insight — powered by RAG-style retrieval & local embeddings.
 
 ---
 
-## 🚀 Features
+## 🚀 Overview
 
-- 🧠 Smart data parsing using regex and pandas
-- 📂 Supports both income and expense data from plain text files
-- 🔍 Handles natural language questions like:
-  - *“What is the total income for March 2024?”*
-  - *“Which expense category had the highest total?”*
-- 🗣️ Optional Text-to-Speech for query answers
-- 🖥️ Simple Streamlit GUI included (optional)
-- 💡 Lightweight, offline, and private — works without internet or APIs
+The AI Finance Accountant Agent is a smart voice-enabled assistant that lets users:
 
----
+- 📊 Track income and expenses
+- 🧾 Summarize financial invoices
+- 🧠 Ask questions like “What’s my highest income in April?”
+- 🗣️ All through **natural voice commands**
 
-## 🎥 Demo
-
-![AI Finance Agent Demo](demo.gif) <!-- You can upload a GIF and link it here -->
+Designed to run locally using lightweight models — no cloud or API keys required!
 
 ---
 
-## ⚙️ How It Works
+## 🛠️ Features
 
-1. Reads structured `invoices.txt` with labeled entries for incomes and expenses.
-2. Uses regular expressions to extract:
-   - Date
-   - Category
-   - Amount
-   - Description
-3. Loads into a `pandas.DataFrame`
-4. Accepts user questions and parses intent using simple logic (no NLP models needed!)
-5. Answers are generated via direct `pandas` operations
-6. Optionally, answers are spoken aloud via `pyttsx3`.
+✅ Voice command interface  
+✅ Intelligent intent parsing  
+✅ Structured financial data processing  
+✅ Custom lightweight RAG retrieval using sentence-transformers  
+✅ No external API calls – fully offline-capable  
+✅ Income, expense, and balance summaries  
+✅ Monthly breakdowns  
+✅ Natural sounding responses  
 
 ---
 
-## 🧰 Tech Stack
-
-- Python 3
-- Pandas
-- Regex
-- pyttsx3 (for TTS)
-- Streamlit (for optional GUI)
-
----
-
-## 📦 Getting Started
+## 📂 Folder Structure
 
 ```bash
-# 1. Clone the repo
-git clone https://github.com/your-username/ai-finance-accountant-agent.git
-cd ai-finance-accountant-agent
-
-# 2. Create a virtual environment (recommended)
-python -m venv venv
-source venv/bin/activate  # or .\venv\Scripts\activate on Windows
-
-# 3. Install dependencies
-pip install -r requirements.txt
-
-# 4. Run the app
-python main.py
-
-# Optional: Launch the Streamlit GUI
-streamlit run gui.py
+ai-finance-accountant-agent/
+│
+├── main.py                      # Entry point
+├── modules/
+│   ├── intent_parser.py         # Detects user intent
+│   ├── voice_input.py           # Whisper-based voice capture
+│   ├── rag_engine.py            # Core retrieval & analysis engine
+│   └── speech_output.py         # Text-to-speech output (optional)
+│
+├── data/
+│   ├── financial_statements.txt # Invoice + income entries
+│   └── rag_cache.pkl            # Cached embeddings for performance
+│
+├── README.md
+└── Documentation & Usage Guide.pdf
