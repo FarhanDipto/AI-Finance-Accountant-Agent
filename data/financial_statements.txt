@@ -1,0 +1,60 @@
+Invoice #001 | January 05, 2024 | Office Rent | $550
+Invoice #002 | January 10, 2024 | Internet Bill | $65
+Invoice #003 | January 12, 2024 | Cloud Storage Subscription | $12
+Invoice #004 | January 15, 2024 | Co-working Space Fee | $120
+Invoice #005 | January 18, 2024 | Graphic Design Software | $25
+Invoice #006 | January 20, 2024 | Office Supplies | $45
+Invoice #007 | January 25, 2024 | Freelance Web Design Payment | $1200
+Invoice #008 | February 03, 2024 | Office Rent | $550
+Invoice #009 | February 05, 2024 | Phone Bill | $85
+Invoice #010 | February 10, 2024 | Adobe Creative Cloud | $55
+Invoice #011 | February 15, 2024 | Online Course Subscription | $50
+Invoice #012 | February 18, 2024 | Business Lunch | $75
+Invoice #013 | February 22, 2024 | Printer Ink | $40
+Invoice #014 | March 01, 2024 | Office Rent | $550
+Invoice #015 | March 05, 2024 | QuickBooks Subscription | $30
+Invoice #016 | March 10, 2024 | Domain Renewal | $18
+Invoice #017 | March 11, 2024 | Software License Renewal | $200
+Invoice #018 | March 15, 2024 | Marketing Materials | $120
+Invoice #019 | March 20, 2024 | Food Delivery | $30
+Invoice #020 | March 25, 2024 | Tax Consultant Fee | $250
+Invoice #021 | April 01, 2024 | Office Rent | $550
+Invoice #022 | April 05, 2024 | LinkedIn Premium | $35
+Invoice #023 | April 10, 2024 | Internet Bill | $65
+Invoice #024 | April 12, 2024 | Client Gifts | $90
+Invoice #025 | April 15, 2024 | Coffee Supplies | $25
+Invoice #026 | April 18, 2024 | New Laptop | $950
+Invoice #027 | April 20, 2024 | Conference Tickets | $300
+Invoice #028 | May 01, 2024 | Office Rent | $550
+Invoice #029 | May 05, 2024 | Electricity Bill | $95
+Invoice #030 | May 10, 2024 | Equipment Purchase | $650
+Income #001 | January 02, 2024 | Client A - Website Project | $3500
+Income #002 | January 15, 2024 | Client B - Monthly Retainer | $2000
+Income #003 | January 30, 2024 | Blog Ad Revenue | $450
+Income #004 | February 05, 2024 | Client C - E-commerce Site | $5000
+Income #005 | February 10, 2024 | Freelance Writing | $800
+Income #006 | February 15, 2024 | Client B - Monthly Retainer | $2000
+Income #007 | February 25, 2024 | Online Course Sales | $1200
+Income #008 | March 01, 2024 | Client D - App Development | $7500
+Income #009 | March 10, 2024 | Affiliate Commissions | $320
+Income #010 | March 15, 2024 | Client B - Monthly Retainer | $2000
+Income #011 | March 20, 2024 | Stock Photo Sales | $180
+Income #012 | March 25, 2024 | Client E - Branding Project | $2800
+Income #013 | April 01, 2024 | Salary (Part-time) | $1550
+Income #014 | April 05, 2024 | YouTube Ad Revenue | $620
+Income #015 | April 10, 2024 | Client F - Social Media Mgmt | $1500
+Income #016 | April 15, 2024 | Client B - Monthly Retainer | $2000
+Income #017 | April 20, 2024 | Payment from Blog Sponsorship | $300
+Income #018 | April 25, 2024 | Client G - WordPress Plugin | $4200
+Income #019 | May 01, 2024 | Salary (Part-time) | $1550
+Income #020 | May 05, 2024 | Book Royalties | $380
+Income #021 | May 10, 2024 | Freelance Project | $6000
+Income #022 | May 15, 2024 | Client B - Monthly Retainer | $2000
+Income #023 | May 20, 2024 | Consulting Fee | $1800
+Income #024 | May 25, 2024 | Webinar Ticket Sales | $950
+Income #025 | June 01, 2024 | Salary (Part-time) | $1550
+Income #026 | June 05, 2024 | Client H - Logo Designs | $1200
+Income #027 | June 10, 2024 | Patreon Supporters | $520
+Income #028 | June 15, 2024 | Client B - Monthly Retainer | $2000
+Income #029 | June 20, 2024 | Graphic Design Payment | $900
+Income #030 | June 25, 2024 | Client I - SEO Services | $3500

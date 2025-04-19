@@ -1,0 +1,155 @@
+[
+  {
+    "id": "007",
+    "date": "2024-01-25",
+    "month": "January",
+    "description": "Freelance Web Design Payment",
+    "amount": 1200,
+    "raw_text": "Invoice #007 | January 25, 2024 | Freelance Web Design Payment | $1200",
+    "category": "other"
+  },
+  {
+    "id": "008",
+    "date": "2024-02-03",
+    "month": "February",
+    "description": "Office Rent",
+    "amount": 500,
+    "raw_text": "Invoice #008 | February 03, 2024 | Office Rent | $500",
+    "category": "office"
+  },
+  {
+    "id": "009",
+    "date": "2024-02-15",
+    "month": "February",
+    "description": "Online Course Subscription",
+    "amount": 50,
+    "raw_text": "Invoice #009 | February 15, 2024 | Online Course Subscription | $50",
+    "category": "software"
+  },
+  {
+    "id": "010",
+    "date": "2024-03-01",
+    "month": "March",
+    "description": "Payment from Client Z",
+    "amount": 1500,
+    "raw_text": "Invoice #010 | March 01, 2024 | Payment from Client Z | $1500",
+    "category": "other"
+  },
+  {
+    "id": "011",
+    "date": "2024-03-11",
+    "month": "March",
+    "description": "Software License Renewal",
+    "amount": 200,
+    "raw_text": "Invoice #011 | March 11, 2024 | Software License Renewal | $200",
+    "category": "software"
+  },
+  {
+    "id": "012",
+    "date": "2024-03-20",
+    "month": "March",
+    "description": "Food Delivery",
+    "amount": 30,
+    "raw_text": "Invoice #012 | March 20, 2024 | Food Delivery | $30",
+    "category": "other"
+  },
+  {
+    "id": "013",
+    "date": "2024-04-01",
+    "month": "April",
+    "description": "Consulting Fee",
+    "amount": 800,
+    "raw_text": "Invoice #013 | April 01, 2024 | Consulting Fee | $800",
+    "category": "other"
+  },
+  {
+    "id": "014",
+    "date": "2024-04-10",
+    "month": "April",
+    "description": "Internet Bill",
+    "amount": 45,
+    "raw_text": "Invoice #014 | April 10, 2024 | Internet Bill | $45",
+    "category": "utilities"
+  },
+  {
+    "id": "015",
+    "date": "2024-04-15",
+    "month": "April",
+    "description": "Coffee Supplies",
+    "amount": 25,
+    "raw_text": "Invoice #015 | April 15, 2024 | Coffee Supplies | $25",
+    "category": "office"
+  },
+  {
+    "id": "016",
+    "date": "2024-04-20",
+    "month": "April",
+    "description": "Payment from Blog Sponsorship",
+    "amount": 300,
+    "raw_text": "Invoice #016 | April 20, 2024 | Payment from Blog Sponsorship | $300",
+    "category": "other"
+  },
+  {
+    "id": "017",
+    "date": "2024-05-05",
+    "month": "May",
+    "description": "Electricity Bill",
+    "amount": 95,
+    "raw_text": "Invoice #017 | May 05, 2024 | Electricity Bill | $95",
+    "category": "utilities"
+  },
+  {
+    "id": "018",
+    "date": "2024-05-10",
+    "month": "May",
+    "description": "Equipment Purchase",
+    "amount": 650,
+    "raw_text": "Invoice #018 | May 10, 2024 | Equipment Purchase | $650",
+    "category": "other"
+  },
+  {
+    "id": "019",
+    "date": "2024-05-15",
+    "month": "May",
+    "description": "Freelance Content Writing",
+    "amount": 400,
+    "raw_text": "Invoice #019 | May 15, 2024 | Freelance Content Writing | $400",
+    "category": "other"
+  },
+  {
+    "id": "020",
+    "date": "2024-06-01",
+    "month": "June",
+    "description": "Monthly Salary",
+    "amount": 1800,
+    "raw_text": "Invoice #020 | June 01, 2024 | Monthly Salary | $1800",
+    "category": "other"
+  },
+  {
+    "id": "021",
+    "date": "2024-06-05",
+    "month": "June",
+    "description": "Web Hosting Fee",
+    "amount": 100,
+    "raw_text": "Invoice #021 | June 05, 2024 | Web Hosting Fee | $100",
+    "category": "other"
+  },
+  {
+    "id": "022",
+    "date": "2024-06-10",
+    "month": "June",
+    "description": "Office Snacks",
+    "amount": 40,
+    "raw_text": "Invoice #022 | June 10, 2024 | Office Snacks | $40",
+    "category": "office"
+  },
+  {
+    "id": "023",
+    "date": "2024-06-20",
+    "month": "June",
+    "description": "Graphic Design Payment",
+    "amount": 900,
+    "raw_text": "Invoice #023 | June 20, 2024 | Graphic Design Payment | $900",
+    "category": "other"
+  }
+]
