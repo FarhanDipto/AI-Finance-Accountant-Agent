@@ -1,12 +1,12 @@
-gradio
-SpeechRecognition
-sentence-transformers
+streamlit
+speechrecognition
+gtts
+pydub
+pygame>=2.1.2
 pandas>=1.4.0
 regex>=2022.1.18
-python-dateutil>=2.8.2
-gtts >=2.2.3
-pygame>=2.1.2
-pydub
-colorama>=0.4.4  
-tqdm>=4.62.3     
-numpy>=1.21.0 
+numpy>=1.21.0
+sentence-transformers>=2.2.2
+scikit-learn>=1.0.2
+colorama>=0.4.4
+tqdm>=4.62.3
