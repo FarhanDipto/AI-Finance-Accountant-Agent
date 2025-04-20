@@ -166,7 +166,7 @@ if uploaded_file:
 
 st.markdown("---")
 st.markdown(
-    "Built by [Farhan Dipto](https://github.com/FarhanDipto) · "
+    "Built by [Farhan Abid Ahmed](https://github.com/FarhanDipto) · "
     "[View on GitHub](https://github.com/FarhanDipto/AI-Finance-Accountant-Agent)",
     unsafe_allow_html=True
 )
