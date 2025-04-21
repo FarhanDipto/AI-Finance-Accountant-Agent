@@ -6,6 +6,10 @@
 
 [![Streamlit App](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit)](https://ai-finance-accountant-agent.streamlit.app/)
 
+> **⚠️ Note:** The live demo (via Streamlit) does not support microphone input due to Streamlit’s current browser limitations.  
+> However, the **full voice-enabled experience** works perfectly in the local/offline version. Simply clone the repo and run it locally to enjoy full voice interaction.
+
+---
 
 ## 🚀 Overview
 
