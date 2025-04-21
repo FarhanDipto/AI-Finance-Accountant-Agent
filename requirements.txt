@@ -1,6 +1,7 @@
 streamlit
 speechrecognition
 gtts
+PyAudio
 pydub
 pygame>=2.1.2
 pandas>=1.4.0
