@@ -3,6 +3,8 @@
 > Voice-powered assistant for personal finance insight with sleek UI — powered by RAG-style retrieval & local embeddings.
 
 ---
+![Repo views](https://komarev.com/ghpvc/?username=FarhanDipto&color=blue)
+---
 
 [![Streamlit App](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit)](https://ai-finance-accountant-agent.streamlit.app/)
 
@@ -77,6 +79,6 @@ ai-finance-accountant-agent/
 ├── README.md
 └── Documentation & Usage Guide.pdf
 
-![Repo views](https://komarev.com/ghpvc/?username=FarhanDipto&color=blue)
+
 
 
