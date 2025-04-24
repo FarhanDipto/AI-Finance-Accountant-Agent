@@ -3,10 +3,9 @@
 > Voice-powered assistant for personal finance insight with sleek UI — powered by RAG-style retrieval & local embeddings.
 
 ---
-![Repo views](https://komarev.com/ghpvc/?username=FarhanDipto&color=blue)
----
 
 [![Streamlit App](https://img.shields.io/badge/🚀%20Live%20Demo-Streamlit-ff4b4b?style=for-the-badge&logo=streamlit)](https://ai-finance-accountant-agent.streamlit.app/)
+![Repo Views](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/FarhanDipto/AI-Finance-Accountant-Agent&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=Repo+Views&edge_flat=false)
 
 > **⚠️ Note:** The live demo (via Streamlit) does not support microphone input due to Streamlit’s current browser limitations.  
 > However, the **full voice-enabled experience** works perfectly in the local/offline version. Simply clone the repo and run it locally to enjoy full voice interaction.
