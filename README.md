@@ -77,5 +77,6 @@ ai-finance-accountant-agent/
 ├── README.md
 └── Documentation & Usage Guide.pdf
 
+![Repo views](https://komarev.com/ghpvc/?username=FarhanDipto&color=blue)
 
 
